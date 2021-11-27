@@ -1,0 +1,2 @@
+Crear base de datos con nombre: joyeria usuario: adsi
+ejecutrar: joyeria.sql
