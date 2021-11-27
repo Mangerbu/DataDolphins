@@ -19,7 +19,7 @@
 <html lang="en">
     <head>
         <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
-        <title> MIFINCAGRO </title>
+        <title> SEGURIDAD </title>
         <link rel="shortcut icon"  href="imagenes/icono.ico"/>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="css/principal.css" />
